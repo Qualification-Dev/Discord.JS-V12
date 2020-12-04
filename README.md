@@ -1,4 +1,4 @@
-# Disocrd.JS-V12
+# Discord.JS-V12
 This will be a very simple Discord.JS V12 bot I am making. 
 
 This bot will feature very known commands, If your a highly skilled bot creator this is not for you.
